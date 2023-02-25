@@ -79,7 +79,7 @@ logo=("""'
  YOUTUBE   : SagorAhmed
  Tool Name : FILE TOOL
  Type type : Free
- Version   : 0.2
+ Version   : 1.2
 \033[1;37m----------------------------------------------""")
 def linex():
         print('\033[1;37m----------------------------------------------')
